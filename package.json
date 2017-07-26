@@ -1,0 +1,23 @@
+{
+  "name": "cowsay_quote",
+  "version": "1.2.0",
+  "description": "Simple CLI to make cowsay a random quote",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "cowsayq": "./index.js"
+  },
+  "keywords": [
+    "cowsay",
+    "CLI",
+    "quote"
+  ],
+  "author": "Mahesh Siva S T",
+  "license": "MIT",
+  "dependencies": {
+    "cowsay": "^1.1.9",
+    "request": "^2.81.0"
+  }
+}

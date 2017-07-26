@@ -1,6 +1,6 @@
 {
   "name": "cowsay_quote",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Simple CLI to make cowsay a random quote",
   "main": "index.js",
   "scripts": {

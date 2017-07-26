@@ -1,4 +1,4 @@
-'''
+```
 $ cowsayq
  __________________________________________
 / A garden is always a series of losses se \
@@ -11,4 +11,4 @@ $ cowsayq
                 ||----w |
                 ||     ||
 
-'''
+```
